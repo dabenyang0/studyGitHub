@@ -1,1 +1,1 @@
-
+#define LTE   "lte"
